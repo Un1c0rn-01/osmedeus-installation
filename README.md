@@ -32,7 +32,8 @@ osmedeus health
 
 
 Using Docker
-Pull the Docker image by running docker pull j3ssie/osmedeus and follow this page for in depth usage.
+Pull the Docker image by running docker pull j3ssie/osmedeus
+
 
 
 Verify the installation process
